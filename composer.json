@@ -1,0 +1,28 @@
+{
+    "name": "williems/laravel-locale-switcher",
+    "license": "MIT",
+    "description": "Laravel locale switcher",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Williem Babalola",
+            "email": "bab55z@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Williems\\LaravelLangSwitcher\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.1.3"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Williems\\LaravelLangSwitcher\\LaravelLangSwitcherServiceProvider"
+            ]
+        }
+    }
+}
