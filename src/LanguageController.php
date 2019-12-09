@@ -1,6 +1,6 @@
 <?php
 
-namespace Williems\LaravelLangSwitcher;
+namespace Bab55z\LaravelLocaleSwitcher;
 
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Routing\Controller;

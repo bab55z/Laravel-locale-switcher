@@ -1,12 +1,12 @@
 <?php
 
-namespace Williems\LaravelLangSwitcher;
+namespace Bab55z\LaravelLocaleSwitcher;
 
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
 
-class LaravelLangSwitcherServiceProvider extends ServiceProvider
+class LaravelLocaleSwitcherServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
@@ -16,7 +16,7 @@ class LaravelLangSwitcherServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('Williems\LaravelLangSwitcher\LanguageController');
+        $this->app->make('Bab55z\LaravelLocaleSwitcher\LanguageController');
         $this->mergeConfigFrom(__DIR__.'/../config/laravel_lang_switcher.php', 'langswitcher');
     }
 

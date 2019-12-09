@@ -1,3 +1,3 @@
 # Laravel-locale-switcher
 
-php artisan vendor:publish --provider="Williems\LaravelLangSwitcher\LaravelLangSwitcherServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Bab55z\LaravelLocaleSwitcher\LaravelLocaleSwitcherServiceProvider" --tag="config"

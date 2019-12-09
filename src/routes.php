@@ -1,5 +1,5 @@
 <?php
 
 Route::middleware(['web'])->group(function () {
-    Route::get('lang/{lang}', 'Williems\LaravelLangSwitcher\LanguageController@swap');
+    Route::get('lang/{lang}', 'Bab55z\LaravelLocaleSwitcher\LanguageController@swap');
 });

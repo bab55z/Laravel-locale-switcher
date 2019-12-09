@@ -1,5 +1,5 @@
 <?php
-namespace Williems\LaravelLangSwitcher;
+namespace Bab55z\LaravelLocaleSwitcher;
 
 
 class Session

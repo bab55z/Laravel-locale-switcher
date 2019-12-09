@@ -1,5 +1,5 @@
 {
-    "name": "williems/laravel-locale-switcher",
+    "name": "bab55z/laravel-locale-switcher",
     "license": "MIT",
     "description": "Laravel locale switcher",
     "type": "library",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Williems\\LaravelLangSwitcher\\": "src/"
+            "Bab55z\\LaravelLocaleSwitcher\\": "src/"
         }
     },
     "require": {
@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Williems\\LaravelLangSwitcher\\LaravelLangSwitcherServiceProvider"
+                "Bab55z\\LaravelLocaleSwitcher\\LaravelLocaleSwitcherServiceProvider"
             ]
         }
     }
