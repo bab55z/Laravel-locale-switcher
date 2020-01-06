@@ -52,7 +52,7 @@ php artisan vendor:publish --provider="Bab55z\LaravelLocaleSwitcher\LaravelLocal
 </li>
 ```
 <p align="center"> 
-<img src="https://github.com/bab55z/Laravel-locale-switcher/raw/readme-update/static/animstatic.gif">
+<img src="https://github.com/bab55z/Laravel-locale-switcher/raw/readme-update/static/animstatic_.gif">
 </p>
 
 
