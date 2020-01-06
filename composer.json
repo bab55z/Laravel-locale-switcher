@@ -2,6 +2,7 @@
     "name": "bab55z/laravel-locale-switcher",
     "license": "MIT",
     "description": "Laravel locale switcher",
+    "keywords": ["laravel","locale","localization"],
     "type": "library",
     "authors": [
         {
