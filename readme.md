@@ -51,8 +51,10 @@ php artisan vendor:publish --provider="Bab55z\LaravelLocaleSwitcher\LaravelLocal
     </a>
 </li>
 ```
+<p align="center"> 
+<img src="https://github.com/bab55z/Laravel-locale-switcher/raw/readme-update/static/animstatic.gif">
+</p>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sample #1")
 
 - sample #2 : adds links dynamically
 ```
@@ -81,5 +83,8 @@ php artisan vendor:publish --provider="Bab55z\LaravelLocaleSwitcher\LaravelLocal
   @endforeach
 </div>
 ```
+<p align="center"> 
+<img src="https://github.com/bab55z/Laravel-locale-switcher/raw/readme-update/static/animdynamic.gif">
+</p>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sample #2")
+# Thanks ;)
